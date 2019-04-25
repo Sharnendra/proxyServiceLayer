@@ -1,0 +1,14 @@
+server:
+  port : 9000
+  
+service:
+  data: 
+    -
+      servicename: hello
+      host: localhost:8080/hello
+      json: provided2
+    -
+      servicename: dataShare3
+      host: localhost3
+      json: provided3
+      

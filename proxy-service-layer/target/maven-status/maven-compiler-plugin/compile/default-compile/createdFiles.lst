@@ -1,0 +1,5 @@
+com\service\demoservicearchitechture\config\Service.class
+com\service\demoservicearchitechture\DemoServiceArchitechtureApplication.class
+com\service\demoservicearchitechture\config\DataCofig.class
+com\service\demoservicearchitechture\config\MultiService.class
+com\service\demoservicearchitechture\controller\ProxyServiceController.class

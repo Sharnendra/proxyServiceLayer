@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "service",
+      "type": "com.service.proxy.config.MultiService",
+      "sourceType": "com.service.proxy.config.MultiService"
+    }
+  ],
+  "properties": [
+    {
+      "name": "service.data",
+      "type": "java.util.List<com.service.proxy.config.DataCofig>",
+      "sourceType": "com.service.proxy.config.MultiService"
+    }
+  ],
+  "hints": []
+}
